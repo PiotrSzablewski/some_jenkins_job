@@ -3,4 +3,4 @@ NUM=$(($FIRST + $SECUND))
 echo "$NUM"
 echo "this is $FIRST"
 echo "this is $SECUND"
-echo "over"
+echo "over2"
